@@ -1,0 +1,22 @@
+{
+    "cart": [
+        {
+            "prodId": 1,
+            "prodName": "MANGO T-SHIRT",
+            "prodQtty": 2,
+            "prodPrice": 100,
+            "prodColor": "White",
+            "prodSize": "XII",
+            "prodRating": 3
+        }, 
+        {
+            "prodId": 2,
+            "prodName": "REBOX ZANE",
+            "prodQtty": 1,
+            "prodPrice": 300,
+            "prodColor": "Blue",
+            "prodSize": "XL",
+            "prodRating": 4
+        }
+    ]
+}
